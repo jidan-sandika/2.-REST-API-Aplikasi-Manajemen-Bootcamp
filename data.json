@@ -1,0 +1,8 @@
+[
+	{
+		"name": "Bondra",
+		"role": "admin",
+		"password": "123456",
+		"isLogin": false
+	}
+]
